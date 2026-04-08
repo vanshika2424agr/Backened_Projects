@@ -1,0 +1,16 @@
+{
+  "name": "backened_project",
+  "version": "1.0.0",
+  "description": "creatoing project",
+  "keywords": [
+    "javascript",
+    "backened"
+  ],
+  "license": "ISC",
+  "author": "Vanshika Agrawal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
